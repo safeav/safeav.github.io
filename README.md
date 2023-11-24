@@ -8,7 +8,7 @@ Workshop website template
 git clone https://github.com/safeav/safeav.github.io.git
 cd safeav.github.io
 ```
-3. Run `hugo` in the `pwd`. This will build the website
+3. Run `hugo` in the `pwd`. This will build the website locally
 4. To watch on localhost, run `hugo server --watch`. This is will give a localhost link.
 
 ## Adding Data
