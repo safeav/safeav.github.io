@@ -23,7 +23,6 @@ cd safeav.github.io
 1. Run `hugo` in `pwd`, after editing the files. This will generate the `public` folder, which is then used for the deployment.
 2. Steps to push local data to the remote
 ```
-git init
 git checkout main
 git add .
 git commit -m "message what is being updated"
@@ -31,10 +30,11 @@ git push origin main
 ```
 3. We are using `gh-pages` for the deployment.
 ```
-cd public/
-git init
-git checkout gh-pages
-git add .
+git checkout -b gh-pages
+git rm -rf .
+git checkout main -- 'public/*'
+mv -f public/* .
+rm -r public
 git commit -m "message what is being updated"
 git push origin gh-pages
 ```
