@@ -31,6 +31,7 @@ git push origin main
 3. We are using `gh-pages` for the deployment.
 ```
 git checkout -b gh-pages
+git fetch origin gh-pages
 git rm -rf .
 git checkout main -- 'public/*'
 mv -f public/* .
