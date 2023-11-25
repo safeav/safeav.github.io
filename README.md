@@ -35,6 +35,7 @@ git rm -rf .
 git checkout main -- 'public/*'
 mv -f public/* .
 rm -r public
+git add .
 git commit -m "message what is being updated"
 git push origin gh-pages
 ```
