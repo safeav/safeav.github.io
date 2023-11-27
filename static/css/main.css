@@ -91,12 +91,12 @@ hr {
   padding: 0;
 }
 ins {
-  background: #ff9;
+  background: rgb(2, 72, 75);
   color: #000;
   text-decoration: none;
 }
 mark {
-  background: #ff0;
+  background: rgb(5, 104, 96);
   color: #000;
   font-style: italic;
   font-weight: bold;
