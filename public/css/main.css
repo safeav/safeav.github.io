@@ -761,7 +761,7 @@ nav {
 .logo-link,
 .tagline,
 .call-action-area .price {
-  color: #fff;
+  color: #0c0b0b;
   text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .tagline {
@@ -778,7 +778,7 @@ nav {
   filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
   background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
   color: #2b2b2b;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
   border-radius: 40px;
 }
