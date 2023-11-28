@@ -91,12 +91,12 @@ hr {
   padding: 0;
 }
 ins {
-  background: rgb(2, 72, 75);
+  background: #ff9;
   color: #000;
   text-decoration: none;
 }
 mark {
-  background: rgb(5, 104, 96);
+  background: #ff0;
   color: #000;
   font-style: italic;
   font-weight: bold;
@@ -277,7 +277,7 @@ hr {
    ========================================================================== */
 .wrapper {
   margin: 0 auto;
-  width: 960px;
+  width: 1050px;
   position: relative;
 }
 .content {
@@ -740,7 +740,7 @@ nav {
   background: #2b2b2b;
 }
 .nav-link {
-  color: #0c0b0b;
+  color: #e7e7e7;
 }
 .nav-link:active,
 .nav-link:hover,
