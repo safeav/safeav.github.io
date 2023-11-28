@@ -746,7 +746,7 @@ nav {
 .nav-link:hover,
 .nav-link:focus,
 .nav-link.current {
-  color: #080808;
+  color: #fff;
 }
 /* =============================================================================
    HEADER
@@ -799,7 +799,7 @@ nav {
 }
 .content a:hover,
 .content a:focus {
-  color: #52fdfd;
+  color: #B978DF;
   text-decoration: underline;
 }
 /* =============================================================================
