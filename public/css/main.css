@@ -773,10 +773,10 @@ nav {
 .call-action-area .call-action-link,
 .btn {
   background-color: #fddd52;
-  background-image: -moz-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  background-image: -webkit-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
-  background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  background-image: -moz-linear-gradient(top, #fddd52 30%, #9F15EF 150%);
+  background-image: -webkit-linear-gradient(top, #fddd52 30%, #9F15EF 150%);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#9F15EF');
+  background-image: linear-gradient(top, #fddd52 30%, #9F15EF 150%);
   color: #2b2b2b;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
@@ -795,7 +795,7 @@ nav {
    CONTENT
    ========================================================================== */
 .content a {
-  color: #f0a303;
+  color: #9F15EF;
 }
 .content a:hover,
 .content a:focus {
@@ -892,7 +892,7 @@ nav {
 .sponsor--link:focus,
 .partner-link:hover,
 .partner-link:focus {
-  border-color: #f0a303;
+  border-color: #9F15EF;
 }
 /* =============================================================================
    ORGANIZER
