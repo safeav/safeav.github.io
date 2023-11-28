@@ -25,19 +25,19 @@ cd safeav.github.io
 ```
 git checkout main
 git add .
-git commit -m "message what is being updated"
+git commit -m " updated"
 git push origin main
 ```
 3. We are using `gh-pages` for the deployment.
 ```
-git checkout -b gh-pages
+git checkout  gh-pages
 git fetch origin gh-pages
 git rm -rf .
 git checkout main -- 'public/*'
 mv -f public/* .
 rm -r public
 git add .
-git commit -m "message what is being updated"
+git commit -m "updated"
 git push origin gh-pages
 ```
 4. The website will be live with the changes at [https://safeav.github.io/]
