@@ -806,7 +806,7 @@ nav {
    ABOUT
    ========================================================================== */
 .about {
-  border: 1px solid #e7e7e7;
+  border: 10px solid #e7e7e7;
   background: #fff;
   border-radius: 4px;
 }
@@ -815,7 +815,7 @@ nav {
    ========================================================================== */
 .location-area {
   background: #e7e7e7;
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   border-radius: 4px;
   height: 300px;
 }
@@ -885,7 +885,7 @@ nav {
 .sponsor--link,
 .partner-link {
   background: #fff;
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
 .sponsor--link:hover,
