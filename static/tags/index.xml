@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Workshop on Machine Learning for Autonomous Driving</title>
-    <link>https://ml4ad.github.io/tags/</link>
+    <title>Tags on SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety</title>
+    <link>https://safeav.github.io/tags/</link>
     <description>Recent content in Tags on Workshop on Machine Learning for Autonomous Driving</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://ml4ad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://safeav.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
