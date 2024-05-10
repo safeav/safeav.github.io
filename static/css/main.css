@@ -930,6 +930,23 @@ nav {
   outline: 0;
 }
 /* =============================================================================
+   /* Style for the link to open the abstract 
+   ========================================================================== */
+ 
+  .abstract-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  /* Styles for the abstract container */
+  .abstract-container {
+    display: none; /* Initially hidden */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+/* =============================================================================
    Media Queries
    ========================================================================== */
 @media only screen and (max-width: 1024px) {
